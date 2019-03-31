@@ -21,7 +21,7 @@ Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan, 
 
  ![2](/img/2.JPG)	
 
-3. Aplikasi antrian KPKG Sulawesi Utara
+3.Aplikasi antrian KPKG Sulawesi Utara
 Aplikasi desktop yang saya buat meliputi aplikasi display panggilan dan voice. 
 
  ![3](/img/3.JPG)	
@@ -41,7 +41,7 @@ Aplikasi desktop yang saya buat meliputi aplikasi display panggilan dan voice.
        
  ![6](/img/6.JPG)	
 
-7. Aplikasi antrian Bank Muamalat Kota Malang
+7.Aplikasi antrian Bank Muamalat Kota Malang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil display panggilan dan voice.	
 
  ![7](/img/7.JPG)	
