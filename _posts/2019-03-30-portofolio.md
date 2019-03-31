@@ -14,7 +14,7 @@ Saya mulai bekerja di dunia IT sebagai Java Programmer yaitu 6 November 2018 lal
 1. Aplikasi antrian KP2KP Bengkayang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil dan display panggilan.
 
- ![1](img/1.JPG)		 
+ ![1](port/1.JPG)		 
 
 2. Aplikasi antrian LKPP Jakarta
 Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan, display antrian dan voice.
@@ -34,7 +34,7 @@ Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan d
 5. Aplikasi antrian RSUD Raja Ahmad Thabib Tanjung Pinang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil, ticketing, display panggilan dan voice.
 
- ![5](/port/5.JPG)	
+ ![5](port/5.JPG)	
 
 6. Aplikasi antrian SATPAS Kota Blitar
 Aplikasi desktop yang saya buat meliputi aplikasi display panggilan dan voice.
@@ -64,7 +64,7 @@ Aplikasi desktop yang saya buat meliputi ticketing, display panggilan dan voice.
 11. Aplikasi antrian BBPLK Semarang
 Aplikasi desktop yang saya buat meliputi ticketing, display panggilan dan voice.
 
- ![11](/port/11.JPG)	
+ ![11](port/11.JPG)	
 
 12. Aplikasi antrian Puskesmas Tuban
 Aplikasi desktop yang saya buat meliputi display panggilan dan voice.
