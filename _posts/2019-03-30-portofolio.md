@@ -2,7 +2,7 @@
 layout: post
 title: Portofolio
 subtitle: Project yang pernah saya kerjakan sampai bulan Maret 2019
-image: /img/4X6 K.jpg
+image: /img/4X6K.jpg
 tags: [portofolio]
 comments: true
 ---
@@ -14,7 +14,7 @@ Saya mulai bekerja di dunia IT sebagai Java Programmer yaitu 6 November 2018 lal
 1. Aplikasi antrian KP2KP Bengkayang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil dan display panggilan.
 
- ![1](/port/1.JPG)		 
+ ![1](/img/4X6K.jpg)		 
 
 2. Aplikasi antrian LKPP Jakarta
 Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan, display antrian dan voice.
