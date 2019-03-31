@@ -11,32 +11,32 @@ Assalamualaikum wr wb
 
 Saya mulai bekerja di dunia IT sebagai Java Programmer yaitu 6 November 2018 lalu, saya sangat bersyukur sekali karena saya mempelajari banyak hal dalam pemrograman. Perusahaan ditempat saya bekerja adalah perusahaan IT yang bergerak dalam sistem antrian. Dibawah ini adalah daftar program yang saya buat selama saya bekerja disana:
 
-1. Aplikasi antrian KP2KP Bengkayang
+1.Aplikasi antrian KP2KP Bengkayang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil dan display panggilan.
 
  ![1](/img/1.JPG)		 
 
-2. Aplikasi antrian LKPP Jakarta
+2.Aplikasi antrian LKPP Jakarta
 Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan, display antrian dan voice.
 
  ![2](/img/2.JPG)	
 
-3.  Aplikasi antrian KPKG Sulawesi Utara
+3. Aplikasi antrian KPKG Sulawesi Utara
 Aplikasi desktop yang saya buat meliputi aplikasi display panggilan dan voice. 
 
  ![3](/img/3.JPG)	
 
-4.  Aplikasi antrian KPP Pratama Bukittinggi
+4.Aplikasi antrian KPP Pratama Bukittinggi
 Aplikasi desktop yang saya buat meliputi aplikasi ticketing, display panggilan dan voice. 
  	 
  ![4](/img/4.JPG)	
 
-5. Aplikasi antrian RSUD Raja Ahmad Thabib Tanjung Pinang
+5.Aplikasi antrian RSUD Raja Ahmad Thabib Tanjung Pinang
 Aplikasi desktop yang saya buat meliputi aplikasi pemanggil, ticketing, display panggilan dan voice.
 
  ![5](/img/5.JPG)	
 
-6. Aplikasi antrian SATPAS Kota Blitar
+6.Aplikasi antrian SATPAS Kota Blitar
 Aplikasi desktop yang saya buat meliputi aplikasi display panggilan dan voice.
        
  ![6](/img/6.JPG)	
@@ -46,32 +46,32 @@ Aplikasi desktop yang saya buat meliputi aplikasi pemanggil display panggilan da
 
  ![7](/img/7.JPG)	
 
-8. Aplikasi antrian RSUD Sawah Besar Jakara
+8.Aplikasi antrian RSUD Sawah Besar Jakara
 Aplikasi desktop yang saya buat meliputi display panggilan dan voice.
 
  ![8](/img/8.JPG)	 
 
-9. Aplikasi antrian Puskesmas Plumpang
+9.Aplikasi antrian Puskesmas Plumpang
 Aplikasi desktop yang saya buat meliputi display panggilan dan voice.
 
  ![9](/img/9.JPG)		 
 
-10. Aplikasi antrian RS Tk. IV Dr. BRATANATA
+10.Aplikasi antrian RS Tk. IV Dr. BRATANATA
 Aplikasi desktop yang saya buat meliputi ticketing, display panggilan dan voice.
 
  ![10](/img/10.JPG)	
 
-11. Aplikasi antrian BBPLK Semarang
+11.Aplikasi antrian BBPLK Semarang
 Aplikasi desktop yang saya buat meliputi ticketing, display panggilan dan voice.
 
  ![11](/img/11.JPG)	
 
-12. Aplikasi antrian Puskesmas Tuban
+12.Aplikasi antrian Puskesmas Tuban
 Aplikasi desktop yang saya buat meliputi display panggilan dan voice.
 
  ![12](/img/12.JPG)	
 
-13. Aplikasi antrian KPP Pratama Balikpapan
+13.Aplikasi antrian KPP Pratama Balikpapan
 Aplikasi desktop yang saya buat meliputi ticketing, display panggilan dan voice.
 
  ![13](/img/13.JPG)	 
